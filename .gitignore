@@ -1,0 +1,19 @@
+# Dependencies
+node_modules/
+__pycache__/
+*.pyc
+
+# Build output
+.next/
+dist/
+
+# Environment files (keep examples)
+.env
+.env.local
+!.env.example
+
+# Logs
+*.log
+
+# OS
+.DS_Store
